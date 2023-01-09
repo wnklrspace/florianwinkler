@@ -1,3 +1,5 @@
 # Hey! 👋🏼  I'm Flo 
 
-I'm a software engineer who loves to create strategic and complex UX & UI. 
+Software engineer who loves to create strategic and complex UX & UI. 
+
+https://portflorio.com
