@@ -1,3 +1,3 @@
-# Hello there 🫰🏻  I'm Flo 
+# Hello there 🏻🌻  I'm Flo 
 
-Software Engineer focusing on strategic and smart UX & UI. 
+On my way of becoming a Software Engineer specialising in Frontend Architecture with focus on Usability and UX Design
